@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "121940357679",
+    "firebase_url": "https://rutrux-firebase-default-rtdb.firebaseio.com",
+    "project_id": "rutrux-firebase",
+    "storage_bucket": "rutrux-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121940357679:android:d59d71c363237bb5fb4cda",
+        "android_client_info": {
+          "package_name": "com.example.rutrux_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121940357679-romfcs47b93kpbpqqmv1l9eab7d75bv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rutrux_app",
+            "certificate_hash": "7f1966da2a07cb8b3700262b4c94e7bc159e5e40"
+          }
+        },
+        {
+          "client_id": "121940357679-gndbc5g88e47ajjbn91300vfk84v71oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2ToGcUadsvcfMnGJy-JuqxoFrjUVmVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121940357679-gndbc5g88e47ajjbn91300vfk84v71oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121940357679-3n94alee250t3hdamk7etgrh8gnolaiv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.miempresa.Rutrux"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121940357679:android:439cb88b98f28141fb4cda",
+        "android_client_info": {
+          "package_name": "pe.edu.tecsup.rutruxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121940357679-d75vu9vv0kjs525cviqqvi6g4i2uqn3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.tecsup.rutruxapp",
+            "certificate_hash": "15e1f0f1d8a8e0bff7a414d079a1c958ad782edc"
+          }
+        },
+        {
+          "client_id": "121940357679-gndbc5g88e47ajjbn91300vfk84v71oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2ToGcUadsvcfMnGJy-JuqxoFrjUVmVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121940357679-gndbc5g88e47ajjbn91300vfk84v71oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121940357679-3n94alee250t3hdamk7etgrh8gnolaiv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.miempresa.Rutrux"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
